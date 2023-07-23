@@ -1,5 +1,4 @@
-# 👋 Welcome to My GitHub Profile! I'm Pappy
-
+# 👋 Welcome to My GitHub Profile!... I'm Pappy
 
 Hello there! 👋 Thank you for visiting my GitHub profile. Here, you'll find a collection of my projects, contributions, and open-source work. I'm passionate about coding, learning new technologies, and building exciting things.
 
