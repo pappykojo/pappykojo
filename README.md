@@ -21,7 +21,7 @@ Feel free to explore the repositories to learn more about these projects and my 
 ## STATS???
 
 [![Pappy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pappykojo)](https://github.com/anuraghazra/github-readme-stats)
-
+![Pappy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pappykojo&show_icons=true)
 
 ## Get in Touch 📱
 
