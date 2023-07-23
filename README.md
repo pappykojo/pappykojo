@@ -18,10 +18,6 @@ Here are some of the key projects you'll find in my repositories:
 Feel free to explore the repositories to learn more about these projects and my contributions.
 
 
-## STATS???
-
-[![Pappy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pappykojo)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Get in Touch 📱
 
 I'm always open to collaboration, discussions, and connecting with like-minded individuals. Feel free to reach out to me via:
