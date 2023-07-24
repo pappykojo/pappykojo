@@ -6,6 +6,9 @@ Hello there! 👋 Thank you for visiting my GitHub profile. Here, you'll find a 
 
 I'm a software developer 💻 with a keen interest in everything coding, from web development🌐 to cybersecurity🔒 and everything in between. My goal is to create meaningful and impactful projects that solve real-world problems and make a positive difference.
 
+## My Skills???
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,figma,flask,git,nodejs,arduino,autocad,mysql,php,pspy,sqlite,vscode&perline=4)](https://skillicons.dev)
+
 ## Projects 📚
 
 Here are some of the key projects you'll find in my repositories:
