@@ -4,7 +4,7 @@ Hello there! 👋 Thank you for visiting my GitHub profile. You may discover a s
 
 ## About Me 😎
 
-I work as a software engineer 💻and have a strong interest in all things coding, including web development 🌐, cybersecurity🔒, and everything in between. Making relevant and significant initiatives that address pressing issues and have a positive impact is my main objective.
+I'm a computer engineering student 💻and have a strong interest in all things coding, including web development 🌐, cybersecurity🔒, and everything in between. Making relevant and significant initiatives that address pressing issues and have a positive impact is my main objective.
 
 
 ## My Skills???
