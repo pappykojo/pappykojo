@@ -8,7 +8,7 @@ I'm a computer engineering student 💻and have a strong interest in all things 
 
 
 ## My Skills???
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,cpp,figma,git,nodejs,arduino,autocad,mysql,php,ps,sqlite,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,cpp,figma,git,nodejs,apple,bash,docker,discord,flask,firebase,git,github,gmail,htmx,arduino,ai,kali,linux,LinkedIn,autocad,mysql,debian,php,ps,sqlite,vscode&perline=6)](https://skillicons.dev)
 
 ## Projects 📚
 
