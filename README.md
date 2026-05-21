@@ -1,10 +1,10 @@
 # 👋 Welcome to My GitHub Profile!... I'm Pappy
 
-Hello there! 👋 Thank you for visiting my GitHub profile. You may discover a selection of my endeavors, contributions, and open-source work right here. I enjoy discovering new technologies, coding, and creating fascinating stuff.
+Thank you for visiting my GitHub profile. You may discover a selection of my endeavors, contributions, and open-source work right here. I enjoy discovering new technologies, coding, and creating fascinating stuff.
 
 ## About Me 😎
 
-I'm a computer engineering student 💻and have a strong interest in all things coding, including web development 🌐, cybersecurity🔒, and everything in between. Making relevant and significant initiatives that address pressing issues and have a positive impact is my main objective.
+I'm a computer engineering graduate 💻and I have a strong interest in all things computer, including web development 🌐, cybersecurity🔒, and everything in between. Making relevant and significant initiatives that address pressing issues and have a positive impact is my main objective.
 
 
 ## My Skills???
